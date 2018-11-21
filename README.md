@@ -8,6 +8,6 @@ RULES:
     - W wrecked ship
     - x missed shot
     
-  + first you start by placing 4 your 1x1 ships, and the computer places randomly sets its own
+  + first you start by placing 4 your 1x1 ships, and then computer places randomly sets its own
   + now you see your board, with your ships, and marked AI shots, and AI board, but you dont see his ships, until you shoot them  
   + now alternately you, and AI can shot
